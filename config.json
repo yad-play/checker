@@ -1,7 +1,10 @@
 {
-  "projectName": "YAD Play",
-  "projectUrl": "https://www.yad-play.ru/",
-  "projectColor": "#f1ec40",
-  "exeUrl": "something",
-  "anyDeskUrl": "https://download.anydesk.com/AnyDesk.exe"
+   "projectName":"YAD Play",
+   "projectUrl":"https://www.yad-play.ru/",
+   "projectColor":"#f1ec40",
+   "steamApiKey":"EC4E8B36737A5B4E067C1F0C2CF985A4",
+   "urls":{
+      "exeUrl":"something",
+      "anyDesk":"https://download.anydesk.com/AnyDesk.exe"
+   }
 }
