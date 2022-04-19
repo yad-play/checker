@@ -7,6 +7,7 @@
       "anyDesk": "https://download.anydesk.com/AnyDesk.exe",
       "shellbagAnalyzer": "https://privazer.com/en/shellbag_analyzer_cleaner.exe",
       "lastActivityView": "https://www.nirsoft.net/utils/lastactivityview.zip",
+      "usbDeview": "https://www.nirsoft.net/utils/usbdeview.zip",
       "x64": {
          "everything": "https://www.voidtools.com/Everything-1.4.1.1015.x64.zip"
       },
