@@ -4,12 +4,13 @@
    "projectColor": "#f1ec40",
    "steamApiKey": "EC4E8B36737A5B4E067C1F0C2CF985A4",
    "urls": {
-      "anyDesk":"https://download.anydesk.com/AnyDesk.exe",
+      "anyDesk": "https://download.anydesk.com/AnyDesk.exe",
+      "shellbagAnalyzer": "https://privazer.com/en/shellbag_analyzer_cleaner.exe",
       "x64": {
-         "everythingUrl": "https://www.voidtools.com/Everything-1.4.1.1015.x64.zip"
+         "everything": "https://www.voidtools.com/Everything-1.4.1.1015.x64.zip"
       },
       "ia32": {
-         "everythingUrl": "https://www.voidtools.com/Everything-1.4.1.1015.x86.zip"
+         "everything": "https://www.voidtools.com/Everything-1.4.1.1015.x86.zip"
       }
    }
 }
